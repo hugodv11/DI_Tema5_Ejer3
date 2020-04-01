@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproductorMultimedia", "..\DiseñoInterfaces\Nuevos Componentes\ReproductorMultimedia.csproj", "{1CD3E7A6-9B5F-4FC6-9331-AAF3BA653B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema5Ejer3", "..\DiseñoInterfaces\Tema5Ejer3\Tema5Ejer3.csproj", "{55461B5D-354F-4D9C-B339-7364064D1194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD3E7A6-9B5F-4FC6-9331-AAF3BA653B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD3E7A6-9B5F-4FC6-9331-AAF3BA653B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD3E7A6-9B5F-4FC6-9331-AAF3BA653B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD3E7A6-9B5F-4FC6-9331-AAF3BA653B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55461B5D-354F-4D9C-B339-7364064D1194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55461B5D-354F-4D9C-B339-7364064D1194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55461B5D-354F-4D9C-B339-7364064D1194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55461B5D-354F-4D9C-B339-7364064D1194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7F5219-0EFA-4B7D-83D9-AB97E0E5D2B9}
+	EndGlobalSection
+EndGlobal
